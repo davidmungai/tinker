@@ -1,0 +1,20 @@
+{
+  "name": "tinker",
+  "version": "1.0.0",
+  "description": "testing tool inspired by cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "davidmungai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmungai/tinker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmungai/tinker/issues"
+  },
+  "homepage": "https://github.com/davidmungai/tinker#readme"
+}
